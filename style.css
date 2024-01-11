@@ -1,0 +1,49 @@
+body {
+    background-color: inear-gradient(to bottom right, indigo, purple);
+}
+
+#To-Do {
+    border-style: dotted;
+    border-color: black;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    margin: 5%;
+}
+
+#main-con {
+    border-style: dotted;
+    border-color: black;
+    height: 200px;
+    width: 400px;
+    background-color: white;
+
+}
+#Add-Task{
+    
+    height: 20%;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+#Task{
+    display: inline-block;
+    margin-top:1%;
+    margin-bottom:1%;
+    margin-left: 2%;
+    width: 70%;
+    border-style:;
+    border-color: black;
+    background-color: gainsboro;
+    border-radius: 15%;
+    border-style: double;
+    
+}
+#Add-Btn{
+    display: inline-block;
+    margin-top:1%;
+    margin-bottom:1%;
+    width: 23%;
+    border-style: dotted;
+    border-color: black;
+
+}
